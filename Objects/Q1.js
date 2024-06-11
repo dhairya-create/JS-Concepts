@@ -7,3 +7,4 @@ const func = (function (a) {
 })(5);
 
 console.log(func);
+ 
