@@ -1,0 +1,19 @@
+#electronics-section {
+  padding: 30px;
+  background-color: #ffe5e5;
+}
+
+#card-container {
+  padding: 20px;
+  background-color: #e5f0ff;
+  display: flex;
+  gap: 15px;
+}
+
+.card {
+  padding: 20px;
+  background-color: #e6ffe6;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  font-size: 18px;
+}

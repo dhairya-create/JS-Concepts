@@ -1,0 +1,15 @@
+#grandparent {
+  padding: 40px;
+  background-color: lightcoral;
+}
+
+#parent {
+  padding: 30px;
+  background-color: lightblue;
+}
+
+#child {
+  padding: 20px;
+  background-color: lightgreen;
+  cursor: pointer;
+}
